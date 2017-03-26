@@ -41,7 +41,7 @@ Snapshot builds are available via
  limitations under the License.
 
 ## USAGE
-### Attach the system info services to a RestExpress instance.
+### Attach the SystemInfo services to a RestExpress instance.
 ```Java
 	RestExpress server = new RestExpress();
 	server.setName("Raspi System Info Server");

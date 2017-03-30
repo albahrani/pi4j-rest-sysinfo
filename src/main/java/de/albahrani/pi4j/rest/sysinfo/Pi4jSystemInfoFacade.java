@@ -250,35 +250,35 @@ public class Pi4jSystemInfoFacade {
 	/**
 	 * @see com.pi4j.system.SystemInfoProvider#getCpuTemperature()
 	 */
-	float getCpuTemperature() throws IOException, InterruptedException, NumberFormatException {
+	float getCpuTemperature() throws IOException, InterruptedException {
 		return this.systemInfoProvider.getCpuTemperature();
 	}
 
 	/**
 	 * @see com.pi4j.system.SystemInfoProvider#getCpuVoltage()
 	 */
-	float getCpuVoltage() throws IOException, InterruptedException, NumberFormatException {
+	float getCpuVoltage() throws IOException, InterruptedException {
 		return this.systemInfoProvider.getCpuVoltage();
 	}
 
 	/**
 	 * @see com.pi4j.system.SystemInfoProvider#getMemoryVoltageSDRam_C()
 	 */
-	float getMemoryVoltageSDRam_C() throws IOException, InterruptedException, NumberFormatException {
+	float getMemoryVoltageSDRam_C() throws IOException, InterruptedException {
 		return this.systemInfoProvider.getMemoryVoltageSDRam_C();
 	}
 
 	/**
 	 * @see com.pi4j.system.SystemInfoProvider#getMemoryVoltageSDRam_I()
 	 */
-	float getMemoryVoltageSDRam_I() throws IOException, InterruptedException, NumberFormatException {
+	float getMemoryVoltageSDRam_I() throws IOException, InterruptedException {
 		return this.systemInfoProvider.getMemoryVoltageSDRam_I();
 	}
 
 	/**
 	 * @see com.pi4j.system.SystemInfoProvider#getMemoryVoltageSDRam_P()
 	 */
-	float getMemoryVoltageSDRam_P() throws IOException, InterruptedException, NumberFormatException {
+	float getMemoryVoltageSDRam_P() throws IOException, InterruptedException {
 		return this.systemInfoProvider.getMemoryVoltageSDRam_P();
 	}
 

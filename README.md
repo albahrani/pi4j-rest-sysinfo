@@ -49,3 +49,19 @@ Snapshot builds are available via
 	controller.attach(server, "/raspberry/systeminfo");
 	server.bind();
 ```
+
+## REST Services
+ * **GET <baseUri>/clock**
+ Provides information about the Raspberry Pi clock frequencies (Arm, Core, DPI, EMMC, H264, HDMI, ISP, Pixel, PWM, UART, V3D and VEC).
+ * **GET <baseUri>/java**
+ Provides information about Raspberry Pi Java VM (runtime, vendor name, vendor url, version and name).
+ * **GET <baseUri>/memory**
+ Provides information about the Raspberry Pi memory (buffers, cached, free, shared, total, used and the sdram voltages).
+ * **GET <baseUri>/cpu**
+ Provides information about the Raspberry Pi cpu (architecture, features, implementer, part, revision, temperature, variant and voltage).
+ * **GET <baseUri>/os**
+ Provides information about the Raspberry Pi OS (architecture, firmware build, firmware date, name and version).
+ * **GET <baseUri>/features**
+ Provides information about the Raspberry Pi enabled features (h264, mpg2, wvc1 and hard float abi).
+ * **GET <baseUri>**
+ Provides information about the Raspberry Pi (board type, hardware, model name, processor, revision and serial).

@@ -2,6 +2,7 @@
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.github.albahrani%3Api4j-rest-sysinfo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.albahrani%3Api4j-rest-sysinfo)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ff5b8211108841e288bc73b188a9d806)](https://app.codacy.com/app/albahrani/pi4j-rest-sysinfo?utm_source=github.com&utm_medium=referral&utm_content=albahrani/pi4j-rest-sysinfo&utm_campaign=badger)
 [![Known Vulnerabilities](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo?targetFile=pom.xml)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo?ref=badge_shield)
 # pi4j-rest-sysinfo | raspberry system info via rest
 Make the pi4j SystemInfo implementation available via REST service using RestExpress.
 This project provides a plugin mechanism to add the system info services to any existing RestExpress server instance.
@@ -41,6 +42,9 @@ Snapshot builds are available via
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo?ref=badge_large)
 
 ## USAGE
 ### Attach the SystemInfo services to a RestExpress instance.

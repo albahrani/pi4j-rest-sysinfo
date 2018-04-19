@@ -2,10 +2,9 @@ language: java
 jdk:
   - oraclejdk8
 cache:
-directories:
-  - $HOME/.m2
+  directories:
+    - $HOME/.m2
 addons:
-  srcclr: true
   sonarcloud:
     organization: "albahrani-github"
     branches:
@@ -35,3 +34,5 @@ deploy:
       repo: albahrani/pi4j-rest-sysinfo
       tags: true
       jdk: oraclejdk8
+notifications:
+  slack: github-albahrani:$SLACK_NOTIFICATIONS

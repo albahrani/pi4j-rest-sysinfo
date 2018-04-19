@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/albahrani/pi4j-rest-sysinfo.svg?branch=master)](https://travis-ci.org/albahrani/pi4j-rest-sysinfo)
 [![Quality Gate](https://sonarqube.com/api/badges/gate?key=com.github.albahrani:pi4j-rest-sysinfo)](https://sonarqube.com/dashboard/index/com.github.albahrani:pi4j-rest-sysinfo)
+[![Known Vulnerabilities](https://snyk.io/test/github/albahrani/dpi4j-rest-sysinfon/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo?targetFile=pom.xml)
 # pi4j-rest-sysinfo | raspberry system info via rest
 Make the pi4j SystemInfo implementation available via REST service using RestExpress.
 This project provides a plugin mechanism to add the system info services to any existing RestExpress server instance.

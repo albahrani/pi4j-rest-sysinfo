@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ff5b8211108841e288bc73b188a9d806)](https://app.codacy.com/app/albahrani/pi4j-rest-sysinfo?utm_source=github.com&utm_medium=referral&utm_content=albahrani/pi4j-rest-sysinfo&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/albahrani/pi4j-rest-sysinfo.svg?branch=master)](https://travis-ci.org/albahrani/pi4j-rest-sysinfo)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.github.albahrani%3Api4j-rest-sysinfo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.albahrani%3Api4j-rest-sysinfo)
 [![Known Vulnerabilities](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo?targetFile=pom.xml)

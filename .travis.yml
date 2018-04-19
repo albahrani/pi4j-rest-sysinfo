@@ -6,7 +6,7 @@ directories:
   - $HOME/.m2
 addons:
   srcclr: true
-  sonarqube:
+  sonarcloud:
     organization: "albahrani-github"
     branches:
       - master

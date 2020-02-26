@@ -1,8 +1,11 @@
 [![](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo/svg)](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo)
+[![](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo/svg)](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.github.albahrani%3Api4j-rest-sysinfo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.albahrani%3Api4j-rest-sysinfo)
 [![codebeat badge](https://codebeat.co/badges/73611634-3b3a-44d2-a83a-ca19139257ca)](https://codebeat.co/projects/github-com-albahrani-pi4j-rest-sysinfo-master)
 [![Known Vulnerabilities](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo?targetFile=pom.xml)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo?ref=badge_shield)
+[![Hits-of-Code](https://hitsofcode.com/github/albahrani/pi4j-rest-sysinfo)](https://hitsofcode.com/view/github/albahrani/pi4j-rest-sysinfo)
+
 # pi4j-rest-sysinfo | raspberry system info via rest
 Make the pi4j SystemInfo implementation available via REST service using RestExpress.
 This project provides a plugin mechanism to add the system info services to any existing RestExpress server instance.

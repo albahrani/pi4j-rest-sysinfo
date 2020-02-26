@@ -1,6 +1,6 @@
 [![Release](https://jitpack.io/v/albahrani/pi4j-rest-sysinfo.svg)](https://jitpack.io/#albahrani/pi4j-rest-sysinfo)
 [![Build](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo/svg)](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.github.albahrani%3Api4j-rest-sysinfo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.albahrani%3Api4j-rest-sysinfo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=albahrani_pi4j-rest-sysinfo&metric=alert_status)](https://sonarcloud.io/dashboard?id=albahrani_pi4j-rest-sysinfo)
 [![codebeat badge](https://codebeat.co/badges/73611634-3b3a-44d2-a83a-ca19139257ca)](https://codebeat.co/projects/github-com-albahrani-pi4j-rest-sysinfo-master)
 [![Known Vulnerabilities](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo?targetFile=pom.xml)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falbahrani%2Fpi4j-rest-sysinfo?ref=badge_shield)

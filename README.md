@@ -1,4 +1,5 @@
-[![](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo/svg)](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo)
+[![Release](https://jitpack.io/v/albahrani/pi4j-rest-sysinfo.svg)](https://jitpack.io/#albahrani/pi4j-rest-sysinfo)
+[![Build](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo/svg)](https://jitci.com/gh/albahrani/pi4j-rest-sysinfo)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.github.albahrani%3Api4j-rest-sysinfo&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.github.albahrani%3Api4j-rest-sysinfo)
 [![codebeat badge](https://codebeat.co/badges/73611634-3b3a-44d2-a83a-ca19139257ca)](https://codebeat.co/projects/github-com-albahrani-pi4j-rest-sysinfo-master)
 [![Known Vulnerabilities](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/albahrani/pi4j-rest-sysinfo?targetFile=pom.xml)
